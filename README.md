@@ -3,7 +3,7 @@
 #### 파일명 : NoFinishPlayer.js & NoFinishPlayer.test.js
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/42576  
 
-### 2. 모읙고사 / Jest test 실행
+### 2. 모고사 / Jest test 실행
 #### 파일명 : MockExam.js & MockExam.test.js
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/42840
 
