@@ -16,3 +16,7 @@
 
 ### 5. 체육복 / 다시 풀이!! 이해가 힘든 탐욕!!
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/42862  
+
+### 6. 가운데 글자 가져오기 / Jest test 실행
+#### 파일명 : GetMiddleWord.js & GetMiddleWord.test.js
+#### URL : https://programmers.co.kr/learn/courses/30/lessons/12903  
