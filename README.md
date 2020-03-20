@@ -23,4 +23,8 @@
 
 ### 7. 같은 숫자는 싫어 / Jest test 실행
 #### 파일명 : HateSameNumber.js & HateSameNumber.test.js
-#### URL : https://programmers.co.kr/learn/courses/30/lessons/12906
+#### URL : https://programmers.co.kr/learn/courses/30/lessons/12906  
+
+### 8. 나누어 떨어지는 숫자 배열 / Jest test 실행
+#### 파일명 : DivideNumber.js & DivideNumber.test.js
+#### URL : https://programmers.co.kr/learn/courses/30/lessons/12910
