@@ -4,7 +4,7 @@ export function solution(arr) {
     return "This is not Array";
   } else {
     const result = arr.filter((ele, idx) => ele !== arr[idx + 1]);
-    // console.log(result);
+    console.log(result);
     return result;
   }
   // for of 사용하기
