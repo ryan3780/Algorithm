@@ -7,7 +7,7 @@ export function solution(s) {
     }
     if (s.length % 2 === 1) {
       let middleWord = s.substring(s.length / 2, s.length / 2 + 0.5);
-      console.log(middleWord);
+      //   console.log(middleWord);
       answer = middleWord;
       return answer;
     } else {
@@ -17,6 +17,6 @@ export function solution(s) {
     }
   }
 
-  console.log(s.length);
+  //   console.log(s.length);
   return answer;
 }
