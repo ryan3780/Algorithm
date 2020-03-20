@@ -14,3 +14,5 @@
 #### 파일명 : NumberOfK.js & NumberOfK.test.js
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/42748  
 
+### 5. 체육복 / 다시 풀이!! 이해가 힘든 탐욕!!
+#### URL : https://programmers.co.kr/learn/courses/30/lessons/42862  
