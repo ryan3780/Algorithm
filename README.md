@@ -21,6 +21,6 @@
 #### 파일명 : GetMiddleWord.js & GetMiddleWord.test.js
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/12903  
 
-### 6. 같은 숫자는 싫어 / Jest test 실행
+### 7. 같은 숫자는 싫어 / Jest test 실행
 #### 파일명 : HateSameNumber.js & HateSameNumber.test.js
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/12906
