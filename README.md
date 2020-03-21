@@ -28,3 +28,7 @@
 ### 8. 나누어 떨어지는 숫자 배열 / Jest test 실행
 #### 파일명 : DivideNumber.js & DivideNumber.test.js
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/12910
+
+### 9.두 정수 사이의 합 / Jest test 실행  
+#### 파일명 : SumBetweenNum.js & SumBetweenNum.test.js  
+#### URL : https://programmers.co.kr/learn/courses/30/lessons/12912   
