@@ -15,3 +15,13 @@ export function solution(s) {
     answer = result.join('')
     return answer;
 }
+
+// 이해력과 가장 깔끔한 남의 코드
+
+function solution(s) {
+  return s
+    .split("")
+    .sort()
+    .reverse()
+    .join("");
+}
