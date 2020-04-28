@@ -40,3 +40,7 @@
 ### 11.문자열 다루기 기본 / Jest test 실행  
 #### 파일명 : HandleString.js & HandleString.test.js  
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/12918  
+
+### 12.소수 찾기 / 
+#### 파일명 : HandleString.js & HandleString.test.js  
+#### URL : https://programmers.co.kr/learn/courses/30/lessons/12918  
