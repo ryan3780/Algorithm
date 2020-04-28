@@ -41,6 +41,6 @@
 #### 파일명 : HandleString.js & HandleString.test.js  
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/12918  
 
-### 12.소수 찾기 / 
-#### 파일명 : HandleString.js & HandleString.test.js  
-#### URL : https://programmers.co.kr/learn/courses/30/lessons/12918  
+### 12.소수 찾기 / 이해가 살짝 안되네??
+#### 파일명 : .js & .test.js  
+#### URL : https://programmers.co.kr/learn/courses/30/lessons/12921  
