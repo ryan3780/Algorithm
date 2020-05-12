@@ -44,3 +44,7 @@
 ### 12.소수 찾기 / 이해가 살짝 안되네??
 #### 파일명 : .js & .test.js  
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/12921  
+
+### 13. 스킬트리
+#### 파일명 : SkillTree.js & SkillTree.test.js  
+#### URL : https://programmers.co.kr/learn/courses/30/lessons/49993  
