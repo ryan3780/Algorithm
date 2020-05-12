@@ -45,6 +45,6 @@
 #### 파일명 : .js & .test.js  
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/12921  
 
-### 13. 스킬트리
+### 13. 스킬트리 /split,filter, includes || regExp, map, filter, length 
 #### 파일명 : SkillTree.js & SkillTree.test.js  
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/49993  
