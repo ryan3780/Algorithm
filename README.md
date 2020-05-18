@@ -53,6 +53,6 @@
 #### 파일명 : .js & .test.js  
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/49994   
 
-### 15. 쿠키구입 
+### 15. 쿠키구입 / 입출력이 이해가 안가네... 이건 아직 멀었네...
 #### 파일명 : .js & .test.js  
 #### URL : https://programmers.co.kr/learn/courses/30/lessons/49995  
